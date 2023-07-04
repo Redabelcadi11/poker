@@ -19,9 +19,10 @@ Pour compiler et exécuter le programme, suivez les étapes suivantes :
 1. Assurez-vous d'avoir un compilateur installé à l'avance sur votre machine.
 2. Ouvrez un terminal ou une invite de commande.
 3. Accédez au répertoire contenant les fichiers source à l'aide de la commande `cd`.
-4. Tapez la commande `make` pour générer l'executable qui sera crée dans le repertoire bin.
-5. Pour executer le programme tapez la commande `./bin/jouer`.
-6. Enfin, la commande `make clean` supprimera les fichiers objets et l'exécutable générés lors de la compilation.
+4. Créez les deux répertoires [bin] et [obj] en utilisant la commande `mkdir obj bin`.
+5. Tapez la commande `make` pour générer l'executable qui sera crée dans le repertoire bin.
+6. Pour executer le programme tapez la commande `./bin/jouer`.
+7. Enfin, la commande `make clean` supprimera les fichiers objets et l'exécutable générés lors de la compilation.
 
 ## Contributions
 
