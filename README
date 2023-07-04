@@ -1,0 +1,32 @@
+# Poker Texas Holdem Trainer
+
+Ce programme est un prototype d'entraînement personnel pour le Texas Holdem Poker. Ce programme vous permettra de vous améliorer au poker, en prenons des décisions stratégiques, et en faisant des choix appropriés.
+
+## Fonctionnalités
+
+- Il simule un tour de mises où vous pouvez choisir de miser, suivre ou vous coucher.
+- Le programme comprend également deux bots codés pour defier le joueur humain.
+- Les règles de base du Texas Holdem sont respectées. (Voir le fichier [reglesTexasHoldemPoker.txt])
+
+## Personnalisation
+
+Ce programme a été conçu pour être facilement personnalisable. Vous pouvez modifier le code source qui se trouve dans le répertoire `src`. Vous pouvez par exemple modifier le comportement des robots, afin qu'ils soient adaptés à vos envies et à vos besoins.
+
+## Compilation et exécution
+
+Pour compiler et exécuter le programme, suivez les étapes suivantes :
+
+1. Assurez-vous d'avoir un compilateur installé à l'avance sur votre machine.
+2. Ouvrez un terminal ou une invite de commande.
+3. Accédez au répertoire contenant les fichiers source à l'aide de la commande `cd`.
+4. Tapez la commande `make` pour générer l'executable qui sera crée dans le repertoire bin.
+5. Pour executer le programme tapez la commande `./bin/jouer`.
+6. Enfin, la commande `make clean` supprimera les fichiers objets et l'exécutable générés lors de la compilation.
+
+## Contributions
+
+Les contributions à ce projet sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités, corriger des bugs ou améliorer le code, n'hésitez pas à soumettre une demande de fusion (pull request).
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE] pour plus d'informations.

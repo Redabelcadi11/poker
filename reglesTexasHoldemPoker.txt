@@ -1,0 +1,27 @@
+Règles du Texas Hold'em Poker :
+Voici le règles du Texas Hold'em Poker, veuillez noter que ces règles ont été trouver sur internet.
+
+Le Texas Hold'em est un jeu de cartes communautaire dans lequel chaque joueur reçoit deux cartes privées et cinq cartes communes sont placées sur la table.
+
+Le jeu se joue avec un jeu de 52 cartes standard. Le but du jeu est de former la meilleure main de cinq cartes possible en utilisant vos deux cartes privées et les cinq cartes communes.
+
+Avant le début de la partie, les deux joueurs à la gauche du donneur placent des mises forcées appelées "small blind" et "big blind". Ces mises garantissent qu'il y a une certaine action dans chaque main.
+
+Chaque joueur reçoit ensuite deux cartes privées, qui leur sont distribuées face cachée. Le joueur à gauche du big blind commence la première ronde de mises.
+
+Les joueurs ont plusieurs options de mise : "check" (passer), "bet" (parier), "call" (suivre), "raise" (relancer) ou "fold" (se coucher). Le jeu se déroule dans le sens des aiguilles d'une montre.
+
+Après la première ronde de mises, trois cartes communes sont placées face visible sur la table. Cela s'appelle le "flop". Les joueurs peuvent utiliser ces cartes en combinaison avec leurs deux cartes privées pour former la meilleure main possible.
+
+Une deuxième ronde de mises a lieu, commençant par le joueur à gauche du donneur. Les joueurs peuvent choisir de "check" (passer) s'il n'y a pas eu de mise précédente.
+
+Une quatrième carte commune, appelée "turn" ou "fourth street", est placée face visible sur la table. Une autre ronde de mises a lieu.
+
+Enfin, une cinquième et dernière carte commune, appelée "river" ou "fifth street", est placée face visible sur la table. Les joueurs effectuent la dernière ronde de mises.
+
+Si plusieurs joueurs restent dans le jeu après la dernière ronde de mises, un "showdown" (étalage des cartes) a lieu. Le joueur qui peut former la meilleure main de cinq cartes en utilisant ses cartes privées et les cartes communes remporte le pot.
+
+Si un joueur fait une mise et que tous les autres joueurs se couchent, le joueur restant remporte automatiquement le pot sans avoir à montrer ses cartes.
+
+Le donneur change après chaque main, dans le sens des aiguilles d'une montre. Les mises forcées (small blind et big blind) se déplacent également autour de la table.
+
